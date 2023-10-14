@@ -1,1 +1,1 @@
-   addressLine \t postalCode \t locality  \t countryRegion [\t goodsDemand [\t comment]] 
+   addressLine \t postalCode \t locality  \t countryRegion 
